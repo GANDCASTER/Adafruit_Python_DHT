@@ -51,8 +51,8 @@ import time
 import sys
 import httplib, urllib
 import json
-deviceId = "DgcqG13D"
-deviceKey = "sdZ9fYdsKiiAyL2I"
+deviceId = "Dxy10lh4"
+deviceKey = "00AbnSZ8I4TqzuHQ"
 def post_to_mcs(payload):
 	headers = {"Content-type": "application/json", "deviceKey": deviceKey}
 	not_connected = 1
